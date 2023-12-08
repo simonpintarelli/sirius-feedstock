@@ -34,6 +34,7 @@ requirements:
     - spglib
     - hdf5
     - spfft
+    - costa
     - spla
     - boost-cpp    # [osx]
     - pkg-config
@@ -43,6 +44,7 @@ requirements:
     - scalapack
     - spfft
     - spla
+    - costa
     - boost-cpp    # [osx]
 
 test:
