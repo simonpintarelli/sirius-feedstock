@@ -10,7 +10,6 @@ source:
   sha256: c583f88ffc02e9acac24e786bc35c7c32066882d2f70a1e0c14b5780b510365d
   patches:
     - fix_osx_compilation.patch  # [osx]
-    - fix_osx_cmake.patch  # [osx]
 
 build:
   number: 1
